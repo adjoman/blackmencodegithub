@@ -14,7 +14,9 @@ namespace githubdemo
             }
 
             // added this comment to show changes from Terminal
-            Console.WriteLine("Program complete");  
+            Console.WriteLine("Program complete");
+
+            Console.WriteLine("Definitely complete now");
         }
     }
 }
