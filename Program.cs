@@ -12,6 +12,9 @@ namespace githubdemo
             {
                 Console.WriteLine("You get a dollar");
             }
+
+            // added this comment to show changes from Terminal
+            Console.WriteLine("Program complete");
             
         }
     }
