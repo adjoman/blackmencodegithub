@@ -6,7 +6,13 @@ namespace githubdemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Started program");
+
+            for(int i=0; i<=100; i++)
+            {
+                Console.WriteLine("You get a dollar");
+            }
+            
         }
     }
 }
